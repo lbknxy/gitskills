@@ -1,2 +1,2 @@
 Hello. World.
-Git branches.
+Git branches and simple.
